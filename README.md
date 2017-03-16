@@ -6,7 +6,7 @@ Created with AngularJS and Bootstrap.
 
 This spplication uses mock json-server (https://github.com/typicode/json-server).
 
-For start this application:
+To start this application:
 
 1) Open console window on your computer.
 
